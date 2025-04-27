@@ -46,19 +46,17 @@ Dirancang untuk cepat, mudah digunakan, dan stealthy jika diperlukan.
 
 1. Clone repository:
 
-bash
-'''
+```bash
 git clone https://github.com/karranwang/sc4nner.git
 
 cd sc4nner
-'''
+```
 
 2. Install dependencies:
 
-bash
-'''
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ---
 
@@ -66,10 +64,9 @@ pip install -r requirements.txt
 
 Jalankan tools:
 
-bash
-'''
+```bash
 python sc4nner.py
-'''
+```
 
 Ikuti menu interaktif yang tersedia.
 

@@ -104,6 +104,7 @@ Tampilan utama:
 Project Structure
 
 sc4nner/
+
 ├── hasil/                  # Folder hasil scan
 
 ├── wordlists/              # Wordlists default

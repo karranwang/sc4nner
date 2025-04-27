@@ -22,21 +22,21 @@ Dirancang untuk cepat, mudah digunakan, dan stealthy jika diperlukan.
 
 ## Features
 
-### Subdomain enumeration
+1. Subdomain enumeration
 
-### Directory brute force
+2. Directory brute force
 
-### CMS detection (WordPress, Joomla, Drupal, Magento, PrestaShop)
+3. CMS detection (WordPress, Joomla, Drupal, Magento, PrestaShop)
 
-### WAF detection (Cloudflare, Sucuri, DDoS-Guard)
+4. WAF detection (Cloudflare, Sucuri, DDoS-Guard)
 
-### SSL certificate expiration check
+5. SSL certificate expiration check
 
-### Mass scan multiple target
+6. Mass scan multiple target
 
-### Support stealth mode (random delay, random user-agent)
+7. Support stealth mode (random delay, random user-agent)
 
-### Auto save hasil ke folder /hasil/
+8. Auto save hasil ke folder /hasil/
 
 
 
@@ -46,16 +46,19 @@ Dirancang untuk cepat, mudah digunakan, dan stealthy jika diperlukan.
 
 1. Clone repository:
 
-
+bash
+'''
 git clone https://github.com/karranwang/sc4nner.git
 
 cd sc4nner
-
+'''
 
 2. Install dependencies:
 
+bash
+'''
 pip install -r requirements.txt
-
+'''
 
 ---
 
@@ -63,7 +66,10 @@ pip install -r requirements.txt
 
 Jalankan tools:
 
+bash
+'''
 python sc4nner.py
+'''
 
 Ikuti menu interaktif yang tersedia.
 

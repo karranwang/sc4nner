@@ -107,11 +107,10 @@ sc4nner/
 
 ├── hasil/                  # Folder hasil scan
 
-├── wordlists/              # Wordlists default
+├── common_subdomains.txt        # Wordlists Sudbomain
 
-│   ├── common_subdomains.txt
+├── common_dirs.txt              # Wordlists Directory
 
-│   └── common_dirs.txt
 
 ├── img.jpg                 # Screenshot untuk README
 

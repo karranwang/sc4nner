@@ -68,7 +68,11 @@ Jalankan tools:
 python sc4nner.py
 ```
 
-Ikuti menu interaktif yang tersedia.
+Ikuti menu interaktif yang tersedia. jika ingin menggunakan Mass Scann edit file di 
+
+```bash
+nano targets.txt
+```
 
 
 ---

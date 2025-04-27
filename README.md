@@ -47,13 +47,12 @@ Dirancang untuk cepat, mudah digunakan, dan stealthy jika diperlukan.
 1. Clone repository:
 
 
-
 git clone https://github.com/karranwang/sc4nner.git
+
 cd sc4nner
 
+
 2. Install dependencies:
-
-
 
 pip install -r requirements.txt
 
@@ -71,7 +70,7 @@ Ikuti menu interaktif yang tersedia.
 
 ---
 
-Configuration
+## Configuration
 
 File config.json untuk pengaturan:
 
@@ -106,13 +105,21 @@ Project Structure
 
 sc4nner/
 ├── hasil/                  # Folder hasil scan
+
 ├── wordlists/              # Wordlists default
+
 │   ├── common_subdomains.txt
+
 │   └── common_dirs.txt
+
 ├── img.jpg                 # Screenshot untuk README
+
 ├── sc4nner.py              # Source code utama
+
 ├── config.json             # Config file
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md               # Dokumentasi
 
 

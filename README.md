@@ -78,13 +78,21 @@ Ikuti menu interaktif yang tersedia.
 File config.json untuk pengaturan:
 
 {
+
   "threads": 30,
+  
   "timeout": 5,
+  
   "stealth_mode": false,
+  
   "delay_min": 1,
+  
   "delay_max": 3,
+  
   "user_agents_rotate": true,
+  
   "save_report": true
+  
 }
 
 stealth_mode: Jika true, akan delay acak antar request untuk menghindari block.

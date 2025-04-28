@@ -48,7 +48,9 @@ Dirancang untuk cepat, mudah digunakan, dan stealthy jika diperlukan.
 
 ```bash
 git clone https://github.com/karranwang/sc4nner.git
+```
 
+```bash
 cd sc4nner
 ```
 
